@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after,
+
+html {
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body,
+
+header {
+    color: #4f2c65;
+    margin-top: 0px;
+}
+
+header h1 {
+    margin-left: 0px;
+    float: left;
+    font-size: 20px;
+}
+
+header section {
+    margin-right: 0px;
+    float: right;
+    font-size: 20px;
+}
