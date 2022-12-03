@@ -24,3 +24,23 @@ header section {
     float: right;
     font-size: 20px;
 }
+
+.challenge-description {
+    visibility: hidden;
+    display: none;
+}
+
+.code-questions {
+    visibility: hidden;
+    display: none;
+}
+
+.all-done {
+    visibility: hidden;
+    display: none;
+}
+
+.high-scores {
+    visibility: hidden;
+    display: none;
+}

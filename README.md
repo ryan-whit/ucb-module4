@@ -9,6 +9,9 @@ Performed as part of the UCB Coding Bootcamp.
 
 ## Links
 
+Deployed page: https://ryan-whit.github.io/ucb-module4/
+Git repo: https://github.com/ryan-whit/ucb-module4
+
 
 ## Screenshot
 
